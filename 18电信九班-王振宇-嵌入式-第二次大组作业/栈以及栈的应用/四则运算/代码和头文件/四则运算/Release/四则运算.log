@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Release\)包含从另一个项目(四则运算.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.c
+  四则运算.c
+  正在生成代码
+c:\users\sydwz\desktop\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\main.c(30): warning C4715: “calculate”: 不是所有的控件路径都返回值
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  四则运算.vcxproj -> C:\Users\SYDwz\Desktop\QG训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\四则运算\Release\四则运算（基础）.exe

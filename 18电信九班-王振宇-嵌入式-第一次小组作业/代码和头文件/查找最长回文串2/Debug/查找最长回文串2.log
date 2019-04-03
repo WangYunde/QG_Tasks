@@ -1,0 +1,5 @@
+﻿  查找最长回文串.c
+c:\users\sydwz\desktop\18电信九班-王振宇-嵌入式-第一次小组作业\代码和头文件\查找最长回文串2\查找最长回文串.c(7): warning C4013: “malloc”未定义；假设外部返回 int
+c:\users\sydwz\desktop\18电信九班-王振宇-嵌入式-第一次小组作业\代码和头文件\查找最长回文串2\查找最长回文串.c(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  查找最长回文串2.vcxproj -> C:\Users\SYDwz\Desktop\18电信九班-王振宇-嵌入式-第一次小组作业\代码和头文件\查找最长回文串2\Debug\查找最长回文串2.exe

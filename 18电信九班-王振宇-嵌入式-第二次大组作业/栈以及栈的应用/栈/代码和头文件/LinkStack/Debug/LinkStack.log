@@ -1,0 +1,14 @@
+﻿  main.c
+c:\users\sydwz\desktop\qg训练营第二次培训\栈以及栈的应用\栈\代码和头文件\linkstack\main.c(22): warning C4013: “getch”未定义；假设外部返回 int
+c:\users\sydwz\desktop\qg训练营第二次培训\栈以及栈的应用\栈\代码和头文件\linkstack\main.c(143): warning C4013: “StarkTraverse”未定义；假设外部返回 int
+c:\users\sydwz\desktop\qg训练营第二次培训\栈以及栈的应用\栈\代码和头文件\linkstack\main.c(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\sydwz\desktop\qg训练营第二次培训\栈以及栈的应用\栈\代码和头文件\linkstack\main.c(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\sydwz\desktop\qg训练营第二次培训\栈以及栈的应用\栈\代码和头文件\linkstack\main.c(55): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\sydwz\desktop\qg训练营第二次培训\栈以及栈的应用\栈\代码和头文件\linkstack\main.c(79): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\sydwz\desktop\qg训练营第二次培训\栈以及栈的应用\栈\代码和头文件\linkstack\main.c(165): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  LinkStack.vcxproj -> C:\Users\SYDwz\Desktop\QG训练营第二次培训\栈以及栈的应用\栈\代码和头文件\LinkStack\Debug\LinkStack.exe

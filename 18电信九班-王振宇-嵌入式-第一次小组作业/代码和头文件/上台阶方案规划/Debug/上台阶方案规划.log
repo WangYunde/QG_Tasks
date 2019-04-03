@@ -1,0 +1,9 @@
+﻿  上台阶方案规划.c
+c:\users\sydwz\desktop\18电信九班-王振宇-嵌入式-第一次小组作业\代码和头文件\上台阶方案规划\上台阶方案规划.c(10): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\sydwz\desktop\18电信九班-王振宇-嵌入式-第一次小组作业\代码和头文件\上台阶方案规划\上台阶方案规划.c(19): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+  c:\users\sydwz\desktop\18电信九班-王振宇-嵌入式-第一次小组作业\代码和头文件\上台阶方案规划\上台阶方案规划.c(19): note: 请考虑在格式字符串中使用“%lld”
+  c:\users\sydwz\desktop\18电信九班-王振宇-嵌入式-第一次小组作业\代码和头文件\上台阶方案规划\上台阶方案规划.c(19): note: 请考虑在格式字符串中使用“%I64d”
+c:\users\sydwz\desktop\18电信九班-王振宇-嵌入式-第一次小组作业\代码和头文件\上台阶方案规划\上台阶方案规划.c(23): warning C4013: “getch”未定义；假设外部返回 int
+c:\users\sydwz\desktop\18电信九班-王振宇-嵌入式-第一次小组作业\代码和头文件\上台阶方案规划\上台阶方案规划.c(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  上台阶方案规划.vcxproj -> C:\Users\SYDwz\Desktop\18电信九班-王振宇-嵌入式-第一次小组作业\代码和头文件\上台阶方案规划\Debug\上台阶方案规划.exe
