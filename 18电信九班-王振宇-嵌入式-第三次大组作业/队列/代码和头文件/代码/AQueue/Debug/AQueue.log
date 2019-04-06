@@ -1,0 +1,19 @@
+﻿  main.c
+C:\Users\SYDwz\Desktop\QG训练营第三次培训\QG训练营第三次培训\代码和头文件\代码\AQueue\main.c(19): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  C:\Users\SYDwz\Desktop\QG训练营第三次培训\QG训练营第三次培训\代码和头文件\代码\AQueue\main.c(19): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  C:\Users\SYDwz\Desktop\QG训练营第三次培训\QG训练营第三次培训\代码和头文件\代码\AQueue\main.c(19): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  C:\Users\SYDwz\Desktop\QG训练营第三次培训\QG训练营第三次培训\代码和头文件\代码\AQueue\main.c(19): note: 此参数用作缓冲区大小
+C:\Users\SYDwz\Desktop\QG训练营第三次培训\QG训练营第三次培训\代码和头文件\代码\AQueue\main.c(24): warning C4013: “getch”未定义；假设外部返回 int
+C:\Users\SYDwz\Desktop\QG训练营第三次培训\QG训练营第三次培训\代码和头文件\代码\AQueue\main.c(29): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  C:\Users\SYDwz\Desktop\QG训练营第三次培训\QG训练营第三次培训\代码和头文件\代码\AQueue\main.c(29): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  C:\Users\SYDwz\Desktop\QG训练营第三次培训\QG训练营第三次培训\代码和头文件\代码\AQueue\main.c(29): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  C:\Users\SYDwz\Desktop\QG训练营第三次培训\QG训练营第三次培训\代码和头文件\代码\AQueue\main.c(29): note: 此参数用作缓冲区大小
+C:\Users\SYDwz\Desktop\QG训练营第三次培训\QG训练营第三次培训\代码和头文件\代码\AQueue\main.c(71): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  C:\Users\SYDwz\Desktop\QG训练营第三次培训\QG训练营第三次培训\代码和头文件\代码\AQueue\main.c(71): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  C:\Users\SYDwz\Desktop\QG训练营第三次培训\QG训练营第三次培训\代码和头文件\代码\AQueue\main.c(71): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  C:\Users\SYDwz\Desktop\QG训练营第三次培训\QG训练营第三次培训\代码和头文件\代码\AQueue\main.c(71): note: 此参数用作缓冲区大小
+C:\Users\SYDwz\Desktop\QG训练营第三次培训\QG训练营第三次培训\代码和头文件\代码\AQueue\main.c(195): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  C:\Users\SYDwz\Desktop\QG训练营第三次培训\QG训练营第三次培训\代码和头文件\代码\AQueue\main.c(195): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  C:\Users\SYDwz\Desktop\QG训练营第三次培训\QG训练营第三次培训\代码和头文件\代码\AQueue\main.c(195): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  C:\Users\SYDwz\Desktop\QG训练营第三次培训\QG训练营第三次培训\代码和头文件\代码\AQueue\main.c(195): note: 此参数用作缓冲区大小
+  AQueue.vcxproj -> C:\Users\SYDwz\Desktop\QG训练营第三次培训\QG训练营第三次培训\代码和头文件\代码\AQueue\Debug\AQueue.exe
