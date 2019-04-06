@@ -26,7 +26,6 @@
 typedef struct node
 {
     void *data;				//数据域指针
-	int dataType;			//数据类型
     struct node *next;		//指向当前结点的下一结点
 } Node;
 
