@@ -1,4 +1,4 @@
-#include "../../Í·ÎÄ¼þ/LQueue.h"
+#include "../../å¤´æ–‡ä»¶/LQueue.h"
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -32,7 +32,7 @@ Status GetHeadLQueue(LQueue* Q, void* e)
 	if (Q->rear == Q->front)
 		return 0;
 	//*(char*)e = *(char*)(Q->front->next->data);
-	printf("\n¶ÓÊ×Êý¾ÝÎª%s\n", (char*)(Q->front->next->data));
+	printf("\né˜Ÿé¦–æ•°æ®ä¸º%s\n", (char*)(Q->front->next->data));
 	return 1;
 }
 
@@ -91,12 +91,12 @@ void ClearLQueue(LQueue* Q)
 Status TraverseLQueue(LQueue Q, void (*foo)(void* q))
 {
 	if (Q.length == 0)
-		printf("£¨¿Õ£©");
+		printf("ï¼ˆç©ºï¼‰");
 	while (Q.front != Q.rear) {
 		Q.front = Q.front->next;
 		(*foo)(Q.front);
 	}
-	printf("    £¨»Ø³µÒÔ¼ÌÐø£©\n");
+	printf("    ï¼ˆå›žè½¦ä»¥ç»§ç»­ï¼‰\n");
 }
 
 void LPrint(void* q)
@@ -131,16 +131,16 @@ int judgeAndEn(LQueue* Q, char* s)
 	//printf("\n%s", s);
 	int beEn = EnLQueue(Q, s);
 	if (isString || isDouble > 1) {
-		printf("->ÄúÊäÈëÁËÒ»¸ö×Ö·û´®\n");
-		Q->rear->dataType = 2;
+		printf("->æ‚¨è¾“å…¥äº†ä¸€ä¸ªå­—ç¬¦ä¸²\n");
+		//Q->rear->dataType = 2;
 	}
 	else if (isDouble == 1) {
-		printf("->ÄúÊäÈëÁËÒ»¸ö¸¡µãÐÍ\n");
-		Q->rear->dataType = 1;
+		printf("->æ‚¨è¾“å…¥äº†ä¸€ä¸ªæµ®ç‚¹åž‹\n");
+		//Q->rear->dataType = 1;
 	}
 	else if (i > 0) {
-		printf("->ÄúÊäÈëÁËÒ»¸öÕûÐÍ\n");
-		Q->rear->dataType = 0;
+		printf("->æ‚¨è¾“å…¥äº†ä¸€ä¸ªæ•´åž‹\n");
+		//Q->rear->dataType = 0;
 	}
 	return beEn;
 }
